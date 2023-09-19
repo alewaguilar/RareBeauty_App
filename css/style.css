@@ -1,0 +1,65 @@
+:root{
+	--f7-theme-color:#7C0034;
+	--f7-navbar-bg-color: #fff; /*navbar*/
+	--f7-navbar-link-color: #7C0034; /*navbar link*/
+	--f7-navbar-text-color:#7C899F;
+	--f7-bars-bg-color:#fff;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #333; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+}
+
+.img-fluid{
+	max-width: 100%;
+}
+
+body{
+	font-family:Helvetica;
+	color: #010101;
+}
+
+#profile{
+	text-align: center;
+}
+
+#profile h2{
+	font-size: 30px;
+}
+
+.button{
+	font-weight: 600;
+}
+
+#lips i{
+	color: #f7cf4d;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
